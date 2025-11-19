@@ -1,4 +1,4 @@
-# operators-with-java
+# Operators with Java
 
 ---
 
