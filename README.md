@@ -21,3 +21,4 @@
 ### Arithmetic Operators
 ### Adding Parentheses
 ### Changing the Order of Operation
+### Verifying Parentheses Syntax
