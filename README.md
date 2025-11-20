@@ -13,3 +13,7 @@
 
 ### Complement and Negation Operators
 ### Increment and Decrement Operators
+
+---
+
+## Working with Binary Arithmetic Operators
