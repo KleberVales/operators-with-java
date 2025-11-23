@@ -41,6 +41,8 @@
 
 ## Comparing Values
 
+### Equality Operators
+
 
 
 
