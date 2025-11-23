@@ -45,6 +45,7 @@
 ### Relational Operators
 ### Numeric Comparison Operators
 ### Logical Operators
+### Bitwise Operators
 
 
 
