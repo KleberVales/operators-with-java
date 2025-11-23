@@ -42,6 +42,7 @@
 ## Comparing Values
 
 ### Equality Operators
+### Relational Operators
 
 
 
