@@ -48,6 +48,10 @@
 ### Bitwise Operators
 ### Conditional Operators
 
+---
+
+## Making Decisions with the Ternary Operator
+
 
 
 
